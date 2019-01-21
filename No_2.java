@@ -1,6 +1,6 @@
 package JianzhiOffer66;
 
-public class P03 {
+public class No_2 {
 
     /**
      * 题目描述:将字符串的空格替换成%20

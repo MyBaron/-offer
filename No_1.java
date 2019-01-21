@@ -1,6 +1,6 @@
 package JianzhiOffer66;
 
-public class P01 {
+public class No_1 {
 //    题目描述
 //    在一个二维数组中，每一行都按照从左到右递增的顺序排序，
 //    每一列都按照从上到下递增的顺序排序。
@@ -138,8 +138,8 @@ public class P01 {
             }
             System.out.println();
         }
-        P01 p01 = new P01();
-        boolean b=p01.Find1(1,a);
+        No_1 no1 = new No_1();
+        boolean b= no1.Find1(1,a);
         System.out.println(b);
 
     }
